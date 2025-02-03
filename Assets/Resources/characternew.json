@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Michael Scofield",
+    "age": 30,
+    "imagePath": "michael_scofield_image",
+    "bio": "Ein brillanter Ingenieur, der einen Plan schmiedet, um seinen Bruder aus dem Gefängnis zu befreien."
+  },
+  {
+    "name": "Lincoln Burrows",
+    "age": 35,
+    "imagePath": "lincoln_burrows_image",
+    "bio": "Michaels Bruder, der fälschlicherweise für Mord verurteilt wurde, kämpft für seine Freiheit."
+  },
+  {
+    "name": "Fernando Sucre",
+    "age": 28,
+    "imagePath": "fernando_sucre_image",
+    "bio": "Ein loyaler Freund und Gefängnisinsasse, der Michael bei seinem Fluchtplan unterstützt."
+  },
+  {
+    "name": "John Abruzzi",
+    "age": 42,
+    "imagePath": "john_abruzzi_image",
+    "bio": "Ein Mafia-Boss im Gefängnis, der seine Macht und Ressourcen für Michaels Plan einsetzt."
+  }
+]
